@@ -5,9 +5,8 @@ The world of event ticketing is undergoing a transformative shift with the emerg
 
 NFTix is a dynamic team driven by a shared passion for innovation and a mission to revolutionise the event industry through the power of Non-Fungible Tokens (NFTs). With a deep understanding of the challenges faced by event organisers and attendees alike, we are dedicated to transforming event ticketing into a seamless, secure, and engaging experience.
 
-## Team members
-- Lim Kim Hoe (Lead)
-- Lai Jian Yu
+## Owner
+- Lim Kim Hoe
 
 ## Contract Addresses
 Premium Gold Tickets:
