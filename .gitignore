@@ -1,0 +1,4 @@
+node_modules
+kubo
+*.zip
+*.gz
